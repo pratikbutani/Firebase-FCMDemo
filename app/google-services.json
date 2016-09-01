@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "616110024474",
+    "firebase_url": "https://mydemo-c2cd1.firebaseio.com",
+    "project_id": "mydemo-c2cd1",
+    "storage_bucket": "mydemo-c2cd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616110024474:android:36ed7dea3f70b679",
+        "android_client_info": {
+          "package_name": "com.androidbuts.fcmdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "616110024474-md91joda1s6643b74asqofas0gahpovd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfE8Gc9wOPmj4b0R7qkdMJxeFwE7sAmC4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
